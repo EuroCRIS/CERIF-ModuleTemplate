@@ -10,10 +10,12 @@ The scope of the entity and its meaning.<sup>[1](#fn1)</sup>
 An additional description to communicate the purpose of the entity.
 
 ## Specialization of
-[XXX](../entities/XXX.md)
+[XXX](https://github.com/EuroCRIS/CERIF-Core/blob/main/entities/Publication_Channel.md)
 
 ## Attributes
-<a name="DOI">attribute name : [datatype](../datatypes/XXX.md)</a>
+field Name 1 : [Date](https://github.com/EuroCRIS/CERIF-Core/blob/main/datatypes/Date.md)
+field Name 2 : [String](https://github.com/EuroCRIS/CERIF-Core/blob/main/datatypes/String.md)
+type : [XXX type](../datatypes/YYY.md)
 
 ## Relationships
 Use `./tools/new-relationship.sh` to generate the skeleton of a relationship description.

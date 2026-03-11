@@ -10,12 +10,9 @@ The scope of the datatype and its meaning.<sup>[1](#fn1)</sup>
 ## Notes
 An additional description to communicate the purpose of the datatype.
 
-## Specialization of
-[XXX](../datatypes/XXX.md)
-
 ## Components
 The list of fields the datatype is composed of.
-Similar to attributes for [entities](./DESCRIBING_ENTITIES.md#sections).
+Similar to attributes for [entities](https://github.com/EuroCRIS/CERIF-ModuleTemplate/blob/main/DESCRIBING_ENTITIES.md#sections).
 
 ## Restrictions
 1. ...

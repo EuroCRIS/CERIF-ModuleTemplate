@@ -11,21 +11,23 @@ Basic domain description of the module
 
 ### Entities
 The XXX Module consists of the following entities:
-* [XXX entity](./entities/Template_Entity.md) 
+* [XXX entity](./entities/XXX.md) 
 
 ### Data Types
-* [XXX data type](./datatypes/Template_Datatype.md)
+* [XXX data type](./datatypes/XXX.md)
+* [YYY data type](./datatypes/YYY.md)
 
 
 ## Illustrative Diagrams
 ![The module diagram](./diagrams/module.svg)
 
-![The example diagram](./diagrams/example.svg)
+![The XXX example diagram](examples/01_XXX/example01.svg)
 
 ## Usage note
 This module cannot be used without the core.
 The module includes the following examples:
-* [XXX example](./examples/Template_Example.md)
+* [XXX example](./examples/README.md#xxx-example)
+* ...
 
 ## Development
 
