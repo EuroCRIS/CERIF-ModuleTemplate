@@ -14,7 +14,9 @@ An additional description to communicate the purpose of the entity.
 
 ## Attributes
 field Name 1 : [Date](https://github.com/EuroCRIS/CERIF-Core/blob/main/datatypes/Date.md)
+
 field Name 2 : [String](https://github.com/EuroCRIS/CERIF-Core/blob/main/datatypes/String.md)
+
 type : [XXX type](../datatypes/YYY.md)
 
 ## Relationships

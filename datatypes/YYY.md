@@ -11,7 +11,7 @@ The scope of the datatype and its meaning.<sup>[1](#fn1)</sup>
 An additional description to communicate the purpose of the datatype.
 
 ## Based on
-[XXX](https://github.com/EuroCRIS/CERIF-ModuleTemplate/blob/main/datatypes/String.md)
+[String](https://github.com/EuroCRIS/CERIF-Core/blob/main/datatypes/String.md)
 
 ## Restrictions
 1. ...

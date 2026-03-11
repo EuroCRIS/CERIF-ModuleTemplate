@@ -12,7 +12,7 @@ An additional description to communicate the purpose of the datatype.
 
 ## Components
 The list of fields the datatype is composed of.
-Similar to attributes for [entities](https://github.com/EuroCRIS/CERIF-ModuleTemplate/blob/main/DESCRIBING_ENTITIES.md#sections).
+Similar to attributes for [entities](https://github.com/EuroCRIS/CERIF-Core/blob/main/DESCRIBING_ENTITIES.md#sections).
 
 ## Restrictions
 1. ...
